@@ -65,9 +65,12 @@
     position: relative;
     text-align: center;
     margin-top: 20px;
+}
 
-
-  }
+.banner-image{
+    width: 100%;
+}
+  
   .banner-text {
     position: absolute;
     top: 50%;
@@ -130,6 +133,7 @@
      vertical-align: middle;
 
  }
+
  .bottom-box {
     font-family: "Raleway";
     font-weight: 100;
@@ -141,5 +145,6 @@
 .bottom-section{
     display: inline-block;
     margin-left: 245px;
+    margin-top: 25px;
 }
 
